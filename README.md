@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Neelam%20Dhiman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Powered%20Website%20Creator%20%C2%B7%20Digital%20Marketing%20%26%20AI%20Learner&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Neelam%20Dhiman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Powered%20Website%20Creator%20and%20Digital%20Marketing%20Learner&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/Neelam7590">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI-Powered+Website+Creator+%F0%9F%9A%80;Digital+Marketing+%26+YouTube+SEO+%F0%9F%93%88;Prompt+Engineering+%C2%B7+AI+Content+Creation+%F0%9F%A4%96;Learning+by+building%2C+shipping+in+public+%F0%9F%92%A1" alt="Typing SVG" />
