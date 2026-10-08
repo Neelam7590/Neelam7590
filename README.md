@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Neelam%20Dhiman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer%20%C2%B7%20Kaithal,%20Haryana&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Neelam%20Dhiman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Powered%20Website%20Creator%20%C2%B7%20Digital%20Marketing%20%26%20AI%20Learner&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/Neelam7590">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+real-world+projects+%F0%9F%9A%80;Websites+%C2%B7+Chatbots+%C2%B7+Automation+%F0%9F%A4%96;Learning+by+building%2C+shipping+in+public+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI-Powered+Website+Creator+%F0%9F%9A%80;Digital+Marketing+%26+YouTube+SEO+%F0%9F%93%88;Prompt+Engineering+%C2%B7+AI+Content+Creation+%F0%9F%A4%96;Learning+by+building%2C+shipping+in+public+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Neelam7590&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
@@ -14,9 +14,23 @@
 
 ## 👋 Hi, I'm Neelam
 
-I'm a final-year BA student at Kurukshetra University, from Kaithal, Haryana. I came to coding from outside the usual computer science route, and that's exactly why I love it: with just a laptop and an idea, I can build something real that people actually use.
+I'm a final-year student at Kurukshetra University (KUK), from Kaithal, Haryana. I build AI-powered websites, chatbots and automations, and I'm learning Digital Marketing with AI to help what I build get discovered and used.
 
-I want to build creative projects that solve everyday problems, whether that's helping students learn, answering questions, or saving people time. I'm not trying to be perfect on day one. I'm trying to get a little better with every project I ship.
+I want to create projects that solve everyday problems, whether that's helping students learn, answering questions, or saving people time. I'm not trying to be perfect on day one. I'm trying to get a little better with every project I ship.
+
+---
+
+## 🧰 What I Do
+
+| | |
+|---|---|
+| 🌐 **AI-Powered Website Creation** | Websites and chatbots built with the help of AI |
+| 📈 **Digital Marketing & AI** | Currently learning, and applying it to my own projects |
+| 🔍 **YouTube SEO** | Making videos easier to find |
+| ✍️ **AI Content Creation** | Writing and creating content with AI tools |
+| 📱 **Social Media Management** | Managing and growing social media presence |
+| 🎬 **Video Editing** | Editing videos for content |
+| 🧠 **Prompt Engineering** | Writing clear prompts to get useful results from AI |
 
 ---
 
@@ -140,7 +154,7 @@ Alongside this, I'm learning Digital Marketing with AI.
 
 ## 💼 Experience
 
-**Fresher.** I'm just starting my career, and my experience comes from the projects I build. Every project on this profile is something I designed, built and shipped myself, and I'm actively looking for opportunities to grow as a developer.
+**Fresher.** I'm just starting my career, and my experience comes from the projects I build. Every project on this profile is something I designed, built and shipped myself, and I'm actively looking for opportunities to grow in AI, web and digital marketing.
 
 ---
 
