@@ -60,6 +60,8 @@ I want to create projects that solve everyday problems, whether that's helping s
   <tr>
     <td width="50%" valign="top">
 
+<img src="tagore-school.png" alt="Tagore Global School website" width="100%" />
+
 ### 🏫 Tagore Global School Website
 A complete, working website for a school in Kurukshetra. It includes an **AI chatbot** that answers visitors' questions in real time and a **tour agent** that guides you through the entire website.
 
@@ -69,6 +71,8 @@ A complete, working website for a school in Kurukshetra. It includes an **AI cha
 
 </td>
     <td width="50%" valign="top">
+
+<img src="calc-notebook.png" alt="Calc Notebook website" width="100%" />
 
 ### 🧮 Calc Notebook
 A live website with **7 different calculators** for everyday life, giving instant results. It is published online and registered on **Google Search Console**.
@@ -104,6 +108,8 @@ A blog agent on **Blogger**, built to grow my website's backlinks. Its posts exp
   <tr>
     <td width="50%" valign="top">
 
+<img src="tic-tac-toe.png" alt="Tic Tac Toe game" width="100%" />
+
 ### 🎮 Tic Tac Toe Game
 A mind-refreshing, stress-relieving game with **multiple levels** and a glossy theme, built using **Google AI Studio**.
 
@@ -113,6 +119,8 @@ A mind-refreshing, stress-relieving game with **multiple levels** and a glossy t
 
 </td>
     <td width="50%" valign="top">
+
+<img src="socratic-math-mentor.png" alt="Socratic Math Mentor" width="100%" />
 
 ### 🧠 Socratic Math Mentor
 My own **custom GPT** for math students. Enter an equation or any math question and it gives you the answer.
