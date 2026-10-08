@@ -75,7 +75,7 @@ A live website with **7 different calculators** for everyday life, giving instan
 
 **Tech:** `Web App` `Google Search Console`
 
-[🔗 Live Demo](YOUR-LINK-HERE) • [💻 Code](https://github.com/Neelam7590/calc-notebook)
+[🔗 Live Demo](https://calcnotebook.vercel.app/) • [💻 Code](https://github.com/Neelam7590/calc-notebook)
 
 </td>
   </tr>
@@ -87,7 +87,7 @@ A **scheduled automation bot** that posts mobile technology updates to a Telegra
 
 **Tech:** `Telegram Bot` `Automation`
 
-[🔗 Live Demo](YOUR-LINK-HERE) • [💻 Code](https://github.com/Neelam7590/telegram-bot)
+[💻 Code](https://github.com/Neelam7590/telegram-bot)
 
 </td>
     <td width="50%" valign="top">
@@ -97,7 +97,7 @@ A blog agent on **Blogger**, built to grow my website's backlinks. Its posts exp
 
 **Tech:** `Blogger` `AI Agent` `SEO`
 
-[🔗 Live Demo](YOUR-LINK-HERE) • [💻 Code](https://github.com/Neelam7590/calcnotebook-blog-agent)
+[💻 Code](https://github.com/Neelam7590/calcnotebook-blog-agent)
 
 </td>
   </tr>
@@ -109,7 +109,7 @@ A mind-refreshing, stress-relieving game with **multiple levels** and a glossy t
 
 **Tech:** `Google AI Studio` `Game`
 
-[🔗 Play Now](YOUR-LINK-HERE) • [💻 Code](https://github.com/Neelam7590/TIC-TAC-TOE-GAME)
+[🔗 Play Now](https://tic-tac-toe-game-pearl-chi.vercel.app/) • [💻 Code](https://github.com/Neelam7590/TIC-TAC-TOE-GAME)
 
 </td>
     <td width="50%" valign="top">
@@ -119,7 +119,7 @@ My own **custom GPT** for math students. Enter an equation or any math question 
 
 **Tech:** `Custom GPT` `AI`
 
-[🔗 Try It](YOUR-LINK-HERE) • [💻 Code](https://github.com/Neelam7590/Socratic-Math-Mentor)
+[🔗 Try It](https://socratic-math-mentor.vercel.app/) • [💻 Code](https://github.com/Neelam7590/Socratic-Math-Mentor)
 
 </td>
   </tr>
