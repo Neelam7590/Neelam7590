@@ -166,17 +166,6 @@ Alongside this, I'm learning Digital Marketing with AI.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neelam7590&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam7590&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
