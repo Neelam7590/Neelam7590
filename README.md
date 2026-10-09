@@ -86,8 +86,6 @@ A live website with **7 different calculators** for everyday life, giving instan
   <tr>
     <td width="50%" valign="top">
 
-<img src="https://i.postimg.cc/fbpzmB7s/telegram-bot.png" alt="Telegram bot update 1" width="100%" />
-
 <img src="https://i.postimg.cc/bJnzTkLq/telegram-bot-1.png" alt="Telegram bot update 2" width="100%" />
 
 ### 📲 Telegram Bot
