@@ -85,8 +85,6 @@ A live website with **7 different calculators** for everyday life, giving instan
   <tr>
     <td width="50%" valign="top">
 
-<img src="https://i.postimg.cc/fbpzmB7s/telegram-bot.png" alt="Telegram bot update 1" width="100%" />
-
 <img src="https://i.postimg.cc/bJnzTkLq/telegram-bot-1.png" alt="Telegram bot update 2" width="100%" />
 
 ### 📲 Telegram Bot
@@ -167,13 +165,23 @@ Alongside this, I'm learning Digital Marketing with AI.
 
 ## 🎓 Education
 
-| Course | Institute / Board | Year | Details |
-|---|---|---|---|
-| **Bachelor of Arts** (Mathematics, Economics, English) | Indira Gandhi College, Kaithal (Kurukshetra University) | 2024 – 2027 | Pursuing, final year |
-| **O Level Diploma** | Zed King Institute, Kaithal | 2025 | Completed |
-| **Senior Secondary (12th)** | HBSE (Haryana Board) | 2024 | 88.2% |
-| **Secondary (10th)** | HBSE (Haryana Board) | 2022 | 81.2% |
+- **Bachelor of Arts** (Mathematics, Economics, English)
+  - Indira Gandhi College, Kaithal (Kurukshetra University)
+  - 2024 – 2027 | Pursuing, final year
 
+- **O Level Diploma**
+  - Zed King Institute, Kaithal
+  - 2025 | Completed
+
+- **Senior Secondary (12th)**
+  - HBSE (Haryana Board)
+  - 2024 | 88.2%
+
+- **Secondary (10th)**
+  - HBSE (Haryana Board)
+  - 2022 | 81.2%
+
+---
 ---
 
 ## 💼 Experience
