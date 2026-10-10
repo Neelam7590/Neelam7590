@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI-Powered+Website+Creator+%F0%9F%9A%80;Digital+Marketing+%26+YouTube+SEO+%F0%9F%93%88;Prompt+Engineering+%C2%B7+AI+Content+Creation+%F0%9F%A4%96;Learning+by+building%2C+shipping+in+public+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Neelam7590&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -86,6 +86,8 @@ A live website with **7 different calculators** for everyday life, giving instan
   <tr>
     <td width="50%" valign="top">
 
+<img src="https://i.postimg.cc/fbpzmB7s/telegram-bot.png" alt="Telegram bot update 1" width="100%" />
+
 <img src="https://i.postimg.cc/bJnzTkLq/telegram-bot-1.png" alt="Telegram bot update 2" width="100%" />
 
 ### 📲 Telegram Bot
@@ -97,6 +99,8 @@ A **scheduled automation bot** that posts mobile technology updates to a Telegra
 
 </td>
     <td width="50%" valign="top">
+
+<img src="https://i.postimg.cc/rpprYgYv/Screenshot-2026-10-10-093400.png" alt="Calc Notebook Blog Agent" width="100%" />
 
 ### ✍️ Calc Notebook Blog Agent
 A blog agent on **Blogger**, built to grow my website's backlinks. Its posts explain what each calculator does and why people should use it.
@@ -168,6 +172,16 @@ Alongside this, I'm learning Digital Marketing with AI.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neelam7590&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam7590&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
 
 ## 📫 Let's Connect
 
