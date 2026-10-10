@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI-Powered+Website+Creator+%F0%9F%9A%80;Digital+Marketing+%26+YouTube+SEO+%F0%9F%93%88;Prompt+Engineering+%C2%B7+AI+Content+Creation+%F0%9F%A4%96;Learning+by+building%2C+shipping+in+public+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Neelam7590&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
